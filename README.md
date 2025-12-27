@@ -1,6 +1,7 @@
 Hello this is xveriuz 🙏🏼
 Newbie from Indonesia, Enthusiastically determined in C++, JavaScript, CSS, etc.
-See you in the 2026
+Future Full Stack Web Developer
+See you in the 2026!
 
 <!--
 **xvre-us/xvre-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
